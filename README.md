@@ -1,10 +1,3 @@
-Below is a clean, professional **README.md** you can use for your project.  
-It is written for someone who wants to **understand, run, and extend** your RAG system, and it references the provided UI image naturally.
-
-You can copy‑paste this as `README.md` in your repository.
-
----
-
 # RAG Knowledge Assistant
 
 A desktop-based **Retrieval-Augmented Generation (RAG)** application that allows users to upload documents, build a knowledge base, and ask questions grounded strictly in their own data.  

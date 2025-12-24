@@ -1,1 +1,2 @@
-GEMINI_API_KEY = "AIzaSyBQ94Q06Lva2LAWcHwFmN2yEe6vNIU_SDM"
+GEMINI_API_KEY = "AIzaSyCq2he0_ciUeYtH2KD88p8o5_sGxn2igrI"
+VECTORSTORE_PATH = "../vectorstore/faiss"

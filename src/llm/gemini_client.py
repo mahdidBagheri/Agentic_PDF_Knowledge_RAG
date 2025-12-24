@@ -3,7 +3,7 @@ from src.config import GEMINI_API_KEY
 
 
 class GeminiClient:
-    def __init__(self, model: str = "gemini-3-flash-preview"):
+    def __init__(self, model: str = "gemini-2.5-flash"):
         if not GEMINI_API_KEY:
             raise ValueError("GEMINI_API_KEY not set")
 
